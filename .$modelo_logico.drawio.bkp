@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/26.2.2 Chrome/134.0.6998.178 Electron/35.1.2 Safari/537.36" version="26.2.2">
   <diagram name="Página-1" id="dwNwwrnjd2-CuqUykVEu">
-    <mxGraphModel dx="1428" dy="875" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="874" dy="531" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -600,6 +600,27 @@
         </mxCell>
         <mxCell id="cUTOXhGET7meu2eijVBn-176" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;(1:1)&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="720" y="330" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cUTOXhGET7meu2eijVBn-177" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;(1:N)&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="730" y="420" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cUTOXhGET7meu2eijVBn-178" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;(1:N)&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="579" y="505" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cUTOXhGET7meu2eijVBn-179" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;(1:1)&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="503" y="580" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cUTOXhGET7meu2eijVBn-180" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;(0:1)&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="189" y="620" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cUTOXhGET7meu2eijVBn-181" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;(1:N)&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="620" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cUTOXhGET7meu2eijVBn-182" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;(1:N)&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="500" y="660" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cUTOXhGET7meu2eijVBn-183" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;(1:1)&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="590" y="690" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
